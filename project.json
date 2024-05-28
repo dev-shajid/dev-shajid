@@ -1,0 +1,30 @@
+[
+    {
+        "img": "/images/projects/1.png",
+        "name": "Edu App for Ssc&Hsc",
+        "description": "",
+        "link": "https://shajid-edu.vercel.app/",
+        "github": "https://github.com/dev-shajid/edu"
+    },
+    {
+        "img": "/images/projects/2.png",
+        "name": "Online TicTacToe Challange Game",
+        // "description": "",
+        "link": "https://tic-tac-toe-yvmu.onrender.com/",
+        "github": "https://github.com/dev-shajid/tic-tac-toe"
+    },
+    {
+        "img": "/images/projects/3.png",
+        "name": "Ecommerce App Design",
+        "description": "",
+        "link": "https://shajib-ecommerce.netlify.app/",
+        "github": "https://github.com/dev-shajid/e-commerce"
+    },
+    {
+        "img": "/images/projects/4.png",
+        "name": "Awsome NFT Portfolio",
+        "description": "",
+        "link": "https://shajid-tailwind.netlify.app/",
+        "github": "https://github.com/dev-shajid/edu"
+    }
+]
