@@ -9,7 +9,7 @@
     {
         "img": "/images/projects/2.png",
         "name": "Online TicTacToe Challange Game",
-        // "description": "",
+        "description": "",
         "link": "https://tic-tac-toe-yvmu.onrender.com/",
         "github": "https://github.com/dev-shajid/tic-tac-toe"
     },
